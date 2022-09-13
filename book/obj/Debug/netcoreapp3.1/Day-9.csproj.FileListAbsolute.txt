@@ -1,0 +1,14 @@
+C:\Users\91906\Desktop\test\book\book\bin\Debug\netcoreapp3.1\Day-9.exe
+C:\Users\91906\Desktop\test\book\book\bin\Debug\netcoreapp3.1\Day-9.deps.json
+C:\Users\91906\Desktop\test\book\book\bin\Debug\netcoreapp3.1\Day-9.runtimeconfig.json
+C:\Users\91906\Desktop\test\book\book\bin\Debug\netcoreapp3.1\Day-9.runtimeconfig.dev.json
+C:\Users\91906\Desktop\test\book\book\bin\Debug\netcoreapp3.1\Day-9.dll
+C:\Users\91906\Desktop\test\book\book\bin\Debug\netcoreapp3.1\Day-9.pdb
+C:\Users\91906\Desktop\test\book\book\obj\Debug\netcoreapp3.1\Day-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91906\Desktop\test\book\book\obj\Debug\netcoreapp3.1\Day-9.AssemblyInfoInputs.cache
+C:\Users\91906\Desktop\test\book\book\obj\Debug\netcoreapp3.1\Day-9.AssemblyInfo.cs
+C:\Users\91906\Desktop\test\book\book\obj\Debug\netcoreapp3.1\Day-9.csproj.CoreCompileInputs.cache
+C:\Users\91906\Desktop\test\book\book\obj\Debug\netcoreapp3.1\Day-9.dll
+C:\Users\91906\Desktop\test\book\book\obj\Debug\netcoreapp3.1\Day-9.pdb
+C:\Users\91906\Desktop\test\book\book\obj\Debug\netcoreapp3.1\Day-9.genruntimeconfig.cache
+C:\Users\91906\Desktop\test\book\book\obj\Debug\netcoreapp3.1\Day-9.csproj.AssemblyReference.cache
