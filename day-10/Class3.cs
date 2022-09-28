@@ -47,10 +47,13 @@ namespace day_10
                     consonants++;
                 }
             }
+        
+
 
             // Display the count of vowels and consonant
             Console.WriteLine("count of vowel = " + vowels);
             Console.WriteLine("count of consonant = " + consonants);
+            
         }
     }
 }
