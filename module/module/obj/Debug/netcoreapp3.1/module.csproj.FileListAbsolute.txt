@@ -1,0 +1,14 @@
+C:\Users\91906\Desktop\module\module\module\obj\Debug\netcoreapp3.1\module.csproj.AssemblyReference.cache
+C:\Users\91906\Desktop\module\module\module\obj\Debug\netcoreapp3.1\module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91906\Desktop\module\module\module\obj\Debug\netcoreapp3.1\module.AssemblyInfoInputs.cache
+C:\Users\91906\Desktop\module\module\module\obj\Debug\netcoreapp3.1\module.AssemblyInfo.cs
+C:\Users\91906\Desktop\module\module\module\obj\Debug\netcoreapp3.1\module.csproj.CoreCompileInputs.cache
+C:\Users\91906\Desktop\module\module\module\bin\Debug\netcoreapp3.1\module.exe
+C:\Users\91906\Desktop\module\module\module\bin\Debug\netcoreapp3.1\module.deps.json
+C:\Users\91906\Desktop\module\module\module\bin\Debug\netcoreapp3.1\module.runtimeconfig.json
+C:\Users\91906\Desktop\module\module\module\bin\Debug\netcoreapp3.1\module.runtimeconfig.dev.json
+C:\Users\91906\Desktop\module\module\module\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\91906\Desktop\module\module\module\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\91906\Desktop\module\module\module\obj\Debug\netcoreapp3.1\module.dll
+C:\Users\91906\Desktop\module\module\module\obj\Debug\netcoreapp3.1\module.pdb
+C:\Users\91906\Desktop\module\module\module\obj\Debug\netcoreapp3.1\module.genruntimeconfig.cache
