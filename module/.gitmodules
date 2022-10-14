@@ -1,0 +1,3 @@
+[submodule "charu"]
+	path = charu
+	url = https://github.com/rajeswarimandadhi/charu.git
