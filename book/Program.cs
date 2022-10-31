@@ -4,8 +4,12 @@ using System.Collections.Generic;
 
 
 namespace day_9
-{ 
-        class Book
+{
+    public class IDException : Exception
+    {
+    
+
+    class Book
         {
             public int BookId;
             public string BookName;
@@ -52,54 +56,59 @@ namespace day_9
                     Console.WriteLine("Please Enter correct Value!");
                     LoT = Console.ReadLine();
                 }
+           
+
                 Console.WriteLine("Please enter summary");
                 Summary = Console.ReadLine();
                 Console.WriteLine("Enter ISBN Number: ");
                 ISBN = Convert.ToInt32(Console.ReadLine());
             }
         }
-    }
-    class Class7
-    {
-        public static void Main()
+
+        class Class7
         {
-            bool flag = true;
-            List<Book> b = new List<Book>();
-            Library l = new Library();
-            while (flag)
+            public static void Main1()
             {
-                Console.WriteLine("Please enter the choice you want to do \n1.Add Details \n2.Display");
-                int choice = Convert.ToInt32(Console.ReadLine());
-                switch (choice)
+                bool flag = true;
+                List<Book> b = new List<Book>();
+                Library l = new Library();
+                while (flag)
                 {
-                    case 1:
-                        Console.WriteLine("Enter Details:");
-                        l.GetData();
-                        b.Add(l);
+                    Console.WriteLine("Please enter the choice you want to do \n1.Add Details \n2.Display");
+                    int choice = Convert.ToInt32(Console.ReadLine());
+                    switch (choice)
+                    {
+                        case 1:
+                            Console.WriteLine("Enter Details:");
+                            l.GetData();
+                            b.Add(l);
+                            break;
+                        case 2:
+                            Console.WriteLine("Details Are:");
+                            Console.WriteLine("Book Id: " + l.BookId);
+                            Console.WriteLine("Book Name: " + l.BookName);
+                            Console.WriteLine("Publisher Name: " + l.Publisher);
+                            Console.WriteLine("Price: " + l.Price);
+                            Console.WriteLine("No. of Pages: " + l.NoPages);
+                            Console.WriteLine("Language: " + l.Language);
+                            Console.WriteLine("LoT: " + l.LoT);
+                            Console.WriteLine("Summary: " + l.Summary);
+                            Console.WriteLine("ISBN Number: " + l.ISBN);
+                            break;
+                        default:
+                            Console.WriteLine("Enter Valid Choice!");
+                            break;
+                    }
+                    if (!flag)
+                    {
                         break;
-                    case 2:
-                        Console.WriteLine("Details Are:");
-                        Console.WriteLine("Book Id: " + l.BookId);
-                        Console.WriteLine("Book Name: " + l.BookName);
-                        Console.WriteLine("Publisher Name: " + l.Publisher);
-                        Console.WriteLine("Price: " + l.Price);
-                        Console.WriteLine("No. of Pages: " + l.NoPages);
-                        Console.WriteLine("Language: " + l.Language);
-                        Console.WriteLine("LoT: " + l.LoT);
-                        Console.WriteLine("Summary: " + l.Summary);
-                        Console.WriteLine("ISBN Number: " + l.ISBN);
-                        break;
-                    default:
-                        Console.WriteLine("Enter Valid Choice!");
-                        break;
-                }
-                if (!flag)
-                {
-                    break;
+                    }
                 }
             }
         }
     }
+}
+
 
 
 
